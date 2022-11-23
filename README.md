@@ -1,5 +1,6 @@
 # Hi, I'm Arfan Mahmood <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arfanmahmood&theme=dracula&hide_border=true)
 <!--
 **arfanmahmood/arfanmahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
