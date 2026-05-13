@@ -1,5 +1,5 @@
 # Hi, I'm Arfan Mahmood
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfanmahmood&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#arfanmahmood" />   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arfanmahmood&theme=highcontrast&hide_border=true" alt="arfanmahmood" /> </p>
+## Stats📈 <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arfanmahmood&theme=highcontrast&hide_border=true" alt="arfanmahmood" /> </p>
 <!--
 **arfanmahmood/arfanmahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
